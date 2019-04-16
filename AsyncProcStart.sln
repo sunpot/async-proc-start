@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncProcStart", "AsyncProcStart\AsyncProcStart.csproj", "{C14CA324-A95E-4E36-B07D-83A6C4BDFC2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeNetFrameworkApp", "SomeNetFrameworkApp\SomeNetFrameworkApp.csproj", "{8138FCD8-0DAF-431A-BAC8-69B679B5D288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14CA324-A95E-4E36-B07D-83A6C4BDFC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14CA324-A95E-4E36-B07D-83A6C4BDFC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14CA324-A95E-4E36-B07D-83A6C4BDFC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14CA324-A95E-4E36-B07D-83A6C4BDFC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8138FCD8-0DAF-431A-BAC8-69B679B5D288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8138FCD8-0DAF-431A-BAC8-69B679B5D288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8138FCD8-0DAF-431A-BAC8-69B679B5D288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8138FCD8-0DAF-431A-BAC8-69B679B5D288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
